@@ -1,4 +1,4 @@
-### Hello, I'm Pillious. 👋
+### Hello, I'm pillious. 👋
 
 Explore my website: https://andrewzh.com/
 
