@@ -8,6 +8,10 @@
 </a>
 </div>
 
+
+### Currently working on...
+Learning Next.js & Building a [Resume Editor](https://github.com/pillious/resume-app) App.
+
 ## 📘 Projects
 
 <table>
