@@ -1,8 +1,14 @@
-### Hello, I'm Andrew. 👋
+<div align="center">
+<h1>Hello, I'm Andrew. 👋</h1>
+<a href="https://andrewzh.com/">
+  <img src="https://img.shields.io/badge/website-1e272c?style=for-the-badge&logo=About.me&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/andrewzhlee/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+</div>
 
-Explore my website: https://andrewzh.com/
-
-### 📘 Projects
+## 📘 Projects
 
 <table>
   <tbody>
@@ -39,8 +45,6 @@ Explore my website: https://andrewzh.com/
         <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" height="24"/>
         <img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" alt="typescript" height="24"/>        
         <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" alt="redux toolkit" height="24"/>
-        <img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="node.js" height="24"/>
-        <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="mongodb" height="24"/>
         <img src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="html" height="24"/>
         <img src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="css" height="24"/>  
       </td>
