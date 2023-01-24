@@ -8,14 +8,41 @@
 </a>
 </div>
 
-
+<!-- 
 ### Currently working on...
-Learning Next.js & Building a [Resume Editor](https://github.com/pillious/resume-app) App.
+Learning Next.js & Building a [Resume Editor](https://github.com/pillious/resume-app) App. -->
+
+### Featured Project...
+
+<center>🔥 Resume Builder 🔥</center><br />
+<center><sub><a href="https://github.com/pillious/Resume-Builder">GitHub Repo</a></sub></center>
+<span><sub> | </sub></span>
+<center><sub><a href="https://resume-app-one.vercel.app/">Live Demo Link</a></sub></center><br /><br />
+<img src="https://user-images.githubusercontent.com/33373459/214163165-8eafcb8f-f40d-44cf-a221-4cbb0500774e.png" alt="App picture" width="500"/>
 
 ## 📘 Projects
 
 <table>
+  <thead>
+    <tr>
+      <th>Project</th>
+      <th>Repo</th>
+      <th>Additional Links</th>
+      <th>Tech Stack</th>
+    </tr>
+  </thead>
   <tbody>
+    <tr>
+      <td>Resume Builder<br><i><sub>Bring your creativity, and leave the rest to me.</sub></i></td>
+      <td><a href="https://github.com/pillious/Resume-Builder">Code</a></td>
+      <td><a href="https://resume-app-one.vercel.app/">Demo</a></td>
+      <td>
+        <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="nextjs" height="24"/>
+        <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" height="24"/>
+        <img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="mui" height="24"/>
+        <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="mongodb" height="24"/>
+      </td>
+    </tr>
     <tr>
       <td>WilderTrace - Animal Migration Map<br><i><sub><a href="https://devpost.com/software/wild-stats">Bitcamp2022</a> Best Educational Hack</sub></i></td>
       <td><a href="https://github.com/pillious/Bitcamp2022">Code</a></td>
