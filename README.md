@@ -37,7 +37,7 @@ Learning Next.js & Building a [Resume Editor](https://github.com/pillious/resume
       <td><a href="https://github.com/pillious/Resume-Builder">Code</a></td>
       <td><a href="https://resume-app-one.vercel.app/">Demo</a></td>
       <td>
-        <img src="https://github.com/get-icon/geticon/raw/master/icons/nextjs-icon.svg" alt="nextjs" height="24"/>
+        <img src="https://user-images.githubusercontent.com/33373459/194738312-27d6ee9c-a2f1-4465-bf11-51b8874e869e.png" alt="next.js" height="24"/>
         <img src="https://github.com/get-icon/geticon/raw/master/icons/typescript-icon.svg" alt="typescript" height="24"/>
         <img src="https://github.com/get-icon/geticon/raw/master/icons/material-ui.svg" alt="mui" height="24"/>
         <img src="https://github.com/get-icon/geticon/raw/master/icons/mongodb-icon.svg" alt="mongodb" height="24"/>
