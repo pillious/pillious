@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Hello, I'm Andrew. 👋</h1>
-<a href="https://andrewzh.com/">
+<a href="https://www.andrewzh.com/">
   <img src="https://img.shields.io/badge/website-1e272c?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/andrewzhlee/">
