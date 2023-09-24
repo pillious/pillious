@@ -50,7 +50,7 @@ Learning Next.js & Building a [Resume Editor](https://github.com/pillious/resume
     <tr>
       <td>WilderTrace - Animal Migration Map<br><i><sub><a href="https://devpost.com/software/wild-stats">Bitcamp2022</a> Best Educational Hack</sub></i></td>
       <td><a href="https://github.com/pillious/Bitcamp2022">Code</a></td>
-      <td><a href="https://andrewzh.com/Bitcamp2022">Demo</a></td>
+      <td><a href="https://pillious.github.io/Bitcamp2022">Demo</a></td>
       <td>
         <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="react" height="24"/>
         <img src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="javascript" height="24"/>        
