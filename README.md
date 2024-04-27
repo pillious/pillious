@@ -12,7 +12,7 @@
 ### Currently working on...
 Learning Next.js & Building a [Resume Editor](https://github.com/pillious/resume-app) App. -->
 
-### Featured Project...
+### Featured Projects:
 <center>🔥 Bitcamp 2024 Winner - Best AI Powered Solution for Defense Contracts (Bloomberg Industry Group) 🔥</center><br />
 <center><sub><a href="https://devpost.com/software/contractscope">Devpost Link</a></sub></center>
 <span><sub> | </sub></span>
