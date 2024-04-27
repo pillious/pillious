@@ -13,10 +13,10 @@
 Learning Next.js & Building a [Resume Editor](https://github.com/pillious/resume-app) App. -->
 
 ### Featured Project...
-<center>🔥 Bitcamp 2023 - Fannie Mae Track Winner 🔥</center><br />
-<center><sub><a href="https://devpost.com/software/egg-id7l6h">Devpost Link</a></sub></center>
+<center>🔥 Bitcamp 2024 Winner - Best AI Powered Solution for Defense Contracts (Bloomberg Industry Group) 🔥</center><br />
+<center><sub><a href="https://devpost.com/software/contractscope">Devpost Link</a></sub></center>
 <span><sub> | </sub></span>
-<center><sub><a href="https://github.com/pillious/Bitcamp2023">GitHub Repo</a></sub></center><br /><br />
+<center><sub><a href="https://github.com/TylerK4832/ContractScope">GitHub Repo</a></sub></center><br /><br />
 
 <center>🔥 Resume Builder 🔥</center><br />
 <center><sub><a href="https://github.com/pillious/Resume-Builder">GitHub Repo</a></sub></center>
